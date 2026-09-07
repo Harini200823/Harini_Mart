@@ -26,7 +26,7 @@ public class Product {
         this.imageUrl = imageUrl;
         this.rating = rating;
     }
-
+ 
     // Getters and Setters
     public int getId() {
         return id;
